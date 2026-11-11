@@ -3,4 +3,4 @@ build/
 dist/
 __pycache__/
 *.spec
-litehon_build/
+litehon_build/.idea/ 
